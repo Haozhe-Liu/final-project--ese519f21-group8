@@ -3,4 +3,4 @@
 ## EMG_Trolley.cpp: Real-Time EMG Signal processing
 ## Server.ino and receiver.ino: Wireless Communication
 
-Due to some security restrictions, demo videos cannot be uploaded publicly. Apology for inconvience.
+Due to some security restrictions, the demo video cannot be uploaded publicly. Apology for inconvience.
